@@ -1,0 +1,1 @@
+Use the sample project of react-native version 0.66 and integrate `react-native-agora-chat` of version 0.71.
